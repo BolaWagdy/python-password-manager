@@ -87,6 +87,8 @@ This is a feature-rich Password Manager and Generator application built with Pyt
 └── 📁images
     └── lock.png
     └── pass.jpeg
+    └── program.png
+    └── vault.png
 └──.gitignore
 └── password-manager.py
 └── README.md
